@@ -1,4 +1,3 @@
-# manwel-code
 # 💫 About Me:
 
 ## 💻 Tech Stack
